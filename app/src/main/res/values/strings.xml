@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Runtime AR</string>
+    <string name="place_object">Place Object</string>
+</resources>
